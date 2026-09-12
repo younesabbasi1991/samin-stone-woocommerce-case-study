@@ -4,7 +4,7 @@
 
 > این مخزن، نسخه عمومی و مستندشده یک پروژه خصوصی وردپرس و ووکامرس است. محتوای آن شامل توضیحات فنی، تصاویر و تعداد محدودی نمونه‌کد منتخب است و به‌عنوان قالب قابل نصب ارائه نشده است.
 
-![نمای اصلی وب‌سایت صنایع سنگ ثمین](screenshots/homepage-hero.webp)
+![صفحه اصلی دسکتاپ صنایع سنگ ثمین](screenshots/homepage-desktop.webp)
 
 ## معرفی پروژه
 
@@ -53,21 +53,22 @@ flowchart TB
 
 ## تصاویر منتخب
 
-### صفحه اصلی و نمایش موبایل
+### صفحه اصلی و منوی موبایل
 
-![نمای موبایل صفحه اصلی](screenshots/mobile-homepage.webp)
+<p align="center">
+  <img src="screenshots/homepage-mobile.webp" width="360" alt="صفحه اصلی موبایل صنایع سنگ ثمین">
+  <img src="screenshots/mobile-menu.webp" width="360" alt="منوی کشویی موبایل صنایع سنگ ثمین">
+</p>
 
-![منوی موبایل](screenshots/mobile-navigation.webp)
+### فروشگاه و دسته‌بندی جنس سنگ
 
-### کامپوننت‌های قابل استفاده مجدد
+![صفحه فروشگاه و فیلتر محصولات](screenshots/shop-archive-desktop.webp)
 
-![فرایند سفارش و تولید](screenshots/production-workflow.webp)
+![لیست دسته‌بندی محصولات بر اساس جنس سنگ](screenshots/stone-material-listing.webp)
 
-![کارت تاکسونومی سنگ](screenshots/stone-taxonomy-card.webp)
+### وبلاگ
 
-### صفحه مقاله
-
-![صفحه تکی مقاله](screenshots/single-article-page.webp)
+![لیست مقالات وبلاگ در دسکتاپ](screenshots/blog-desktop.webp)
 
 ## نمونه‌کدها
 
@@ -107,4 +108,3 @@ flowchart TB
 ## توسعه‌دهنده
 
 این پروژه و کیس استادی توسط [@younesabbasi1991](https://github.com/younesabbasi1991) نگهداری می‌شود.
-

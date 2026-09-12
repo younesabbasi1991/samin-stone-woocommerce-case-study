@@ -4,7 +4,7 @@
 
 > A public engineering case study for a private WordPress and WooCommerce project. This repository contains documentation, screenshots, and a small set of curated source-code samples. It is not the complete theme and cannot be installed as a WordPress package.
 
-![Samin Stone homepage hero](screenshots/homepage-hero.webp)
+![Samin Stone desktop homepage](screenshots/homepage-desktop.webp)
 
 ## Project overview
 
@@ -55,19 +55,20 @@ The core plugin owns reusable catalog-domain data. The theme owns templates, pre
 
 ### Responsive homepage and navigation
 
-![Responsive homepage](screenshots/mobile-homepage.webp)
+<p align="center">
+  <img src="screenshots/homepage-mobile.webp" width="360" alt="Samin Stone mobile homepage">
+  <img src="screenshots/mobile-menu.webp" width="360" alt="Samin Stone off-canvas mobile menu">
+</p>
 
-![Accessible off-canvas mobile navigation](screenshots/mobile-navigation.webp)
+### Storefront discovery
 
-### Reusable content sections
+![WooCommerce product archive and filters](screenshots/shop-archive-desktop.webp)
 
-![Production workflow section](screenshots/production-workflow.webp)
+![Stone material taxonomy listing](screenshots/stone-material-listing.webp)
 
-![Stone taxonomy card](screenshots/stone-taxonomy-card.webp)
+### Editorial experience
 
-### Content experience
-
-![Single article page](screenshots/single-article-page.webp)
+![Samin Stone desktop blog listing](screenshots/blog-desktop.webp)
 
 ## Representative code
 
@@ -118,4 +119,3 @@ See [NOTICE.md](NOTICE.md) for usage and ownership information.
 ## Author
 
 Project and case study maintained by [@younesabbasi1991](https://github.com/younesabbasi1991).
-

@@ -19,6 +19,8 @@ The implementation goes beyond visual theming. It introduces stone-specific cata
 | Primary language | Persian (RTL) |
 | Source repository | Private |
 | This repository | Public case study and selected code samples |
+| Live website | [stonesamin.ir](https://stonesamin.ir/) |
+| Portfolio case study | [younesabbasi.com/portfolio/samin-stone](https://younesabbasi.com/portfolio/samin-stone/) |
 | Status | Ongoing project documented from the latest reviewed private commit |
 
 ## Key outcomes
@@ -115,6 +117,11 @@ The complete private repository contains hundreds of theme, plugin, asset, and t
 - unfinished or diagnostic screenshots.
 
 See [NOTICE.md](NOTICE.md) for usage and ownership information.
+
+## Project links
+
+- [Visit the live Samin Stone website](https://stonesamin.ir/)
+- [Read the complete case study on my portfolio](https://younesabbasi.com/portfolio/samin-stone/)
 
 ## Author
 
